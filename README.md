@@ -1,4 +1,4 @@
-# University Project: Local Banking Website
+# Local Banking Website
 ## Overview
 This is a university project, which presents a local banking website designed to serve three distinct types of users: clients, employees, and administrators. 
 Each user type has access to specific functionalities tailored to their role within the banking ecosystem. 
